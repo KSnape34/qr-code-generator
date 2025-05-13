@@ -1,5 +1,6 @@
-# QR CODE GENERATOR
+![QR Code Generator](https://github.com/user-attachments/assets/90dd26a2-0c49-43f0-a69d-d280f7629747)
 
+# QR CODE GENERATOR
 
 A simple QR code generator app using PHP and a PHP QR Code API.
 
