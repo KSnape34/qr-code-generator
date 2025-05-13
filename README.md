@@ -20,3 +20,6 @@ A simple QR code generator app using PHP and a PHP QR Code API.
 - **Bootstrap 5**
 - **Font Awesome**
 - **PHP QR CODE API**
+
+
+Note: Was created utilising an Apache server on the XAMPP Control Panel
