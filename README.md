@@ -7,6 +7,7 @@ A simple QR code generator app using PHP and a PHP QR Code API.
 
 - Input web address and creates unique QR code
 - Able to change the size of the QR code result
+- User is able to download QR code
 - Has a responsive design
 
 
